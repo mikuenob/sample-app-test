@@ -6,5 +6,7 @@ public class App2 {
         System.out.printf("%s to %s", "hello world", upperLowerCase.wordToUpperCase("hello world"));
         System.out.println();
         System.out.printf("%s to %s", "HELLO WORLD", upperLowerCase.wordToLowerCase(" "));
+
+        System.out.println("New Go home feature by backbone team");
     }
 }
